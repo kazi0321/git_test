@@ -3,7 +3,13 @@ package test;
 public class Seito {
 
 	String name;
+<<<<<<< HEAD
 	String test300;
+=======
+
+	String test500;
+
+>>>>>>> branch 'master' of https://github.com/kazi0321/git_test.git
 	int tensuu;
 
 	Seito(String name, int tensuu){
