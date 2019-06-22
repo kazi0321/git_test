@@ -3,7 +3,7 @@ package test;
 public class Seito {
 
 	String name;
-	String test;
+	String test1;
 	int tensuu;
 
 	Seito(String name, int tensuu){
