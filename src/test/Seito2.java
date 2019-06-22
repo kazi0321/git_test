@@ -1,6 +1,6 @@
 package test;
 
-public class Seito {
+public class Seito2 {
 
 	String name;
 
@@ -8,7 +8,7 @@ public class Seito {
 
 	int tensuu;
 
-	Seito(String name, int tensuu){
+	Seito2(String name, int tensuu){
 		this.name = name;
 		this.tensuu = tensuu;
 	}
