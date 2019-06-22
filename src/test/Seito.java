@@ -4,7 +4,7 @@ public class Seito {
 
 	String name;
 
-	String test500;
+	String test501;
 
 	int tensuu;
 
